@@ -1,4 +1,4 @@
-package bio
+package disk
 
 import (
 	"io"
